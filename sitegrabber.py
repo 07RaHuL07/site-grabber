@@ -14,7 +14,7 @@ print("             =                .^. HACKZEX .^.                            
 print("             =                                                             =")
 print("             =   GITHUB =>   github.com/07RaHuL07                          =")
 print("             =   LINKEDIN => www.linkedin.com/in/rahul-deokate-42257b14b   =")
-print("             =                                                             =")
+print("             =   INSTAGRAM => https://www.instagram.com/07_._rahul_._07/   =")
 print("             ===============================================================")
 
 
